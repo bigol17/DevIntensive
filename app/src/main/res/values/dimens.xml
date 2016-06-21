@@ -30,7 +30,7 @@
     <dimen name="fort_small_12">12sp</dimen>
     <dimen name="fort_normal_15">15sp</dimen>
     <dimen name="fort_medium_18">18sp</dimen>
-    <dimen name="fort_lange_22">22sp</dimen>
+    <dimen name="fort_large_22">22sp</dimen>
 
 </resources>
 
