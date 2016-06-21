@@ -5,18 +5,32 @@
 
     <!--Sizes-->
 
-    <dimen name="size_snall_24">24dp</dimen>
-    <dimen name="size_snall_56">56dp</dimen>
-    <dimen name="size_snall_72">72dp</dimen>
+    <dimen name="size_small_8">8dp</dimen>
+    <dimen name="size_small_16">16dp</dimen>
+    <dimen name="size_normal_24">24dp</dimen>
+    <dimen name="size_normal_48">48dp</dimen>
+    <dimen name="size_medium_56">56dp</dimen>
+    <dimen name="size_medium_64">64dp</dimen>
+    <dimen name="size_large_72">72dp</dimen>
+    <dimen name="size_large_80">80dp</dimen>
 
     <!--Spaces-->
 
-    <dimen name="spacing_snall_8">8dp</dimen>
-    <dimen name="spacing_norml_16">16dp</dimen>
-    <dimen name="spacing_medial_24">24dp</dimen>
+    <dimen name="spacing_small_8">8dp</dimen>
+    <dimen name="spacing_small_16">16dp</dimen>
+    <dimen name="spacing_normal_24">24dp</dimen>
     <dimen name="spacing_medium_32">32dp</dimen>
+    <dimen name="spacing_medium_48">48dp</dimen>
     <dimen name="spacing_large_56">56dp</dimen>
     <dimen name="spacing_larger_72">72dp</dimen>
+    <dimen name="spacing_larger_80">80dp</dimen>
+
+    <!-- Fort size -->
+
+    <dimen name="fort_small_12">12sp</dimen>
+    <dimen name="fort_normal_15">15sp</dimen>
+    <dimen name="fort_medium_18">18sp</dimen>
+    <dimen name="fort_large_22">22sp</dimen>
 
 </resources>
 
